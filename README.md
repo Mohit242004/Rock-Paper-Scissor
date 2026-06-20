@@ -73,7 +73,7 @@ Download and install **Python 3.x**.
 ### Step 2: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Rock-Paper-Scissor.git
+git clone https://github.com/Mohit242004/Rock-Paper-Scissor.git
 ```
 
 ### Step 3: Navigate to the Project Folder
